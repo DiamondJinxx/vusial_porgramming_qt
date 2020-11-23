@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default.txt</file>
+        <file>plants.txt</file>
+    </qresource>
+</RCC>

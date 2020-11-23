@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>football_PNG1086.png</file>
+        <file>futbolnoe-pole-futbol-pole.jpg</file>
+        <file>PWND.qml</file>
+    </qresource>
+</RCC>

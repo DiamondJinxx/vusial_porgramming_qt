@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>tak.jpg</file>
+    </qresource>
+</RCC>
